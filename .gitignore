@@ -1,6 +1,9 @@
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
 
+# Mac Files
+.DS_store
+
 # Ignore paths that contain generated content.
 files/
 sites/*/files
